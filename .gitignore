@@ -1,0 +1,21 @@
+# Klipper gitignore
+*.pyc
+*.elf
+*.bin
+*.hex
+*.dfu
+*.zip
+*.tar.gz
+*.o
+*.d
+*.a
+*.s
+*.swp
+*~
+out/
+.config
+config.h
+lib/kconfiglib/*.pyc
+klippy/msgproto.py
+/scripts/motan/*.pyc
+/scripts/spi_flash/*.pyc
